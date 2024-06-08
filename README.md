@@ -19,4 +19,4 @@ https://github.com/Sahanaroy1/Social_Network_API_Builder
 https://vimeo.com/955195681/cb64ad619f?share=copy
 
 ## Snippet of the POSTMAN:
-<img width="916" alt="Get thoughts" src="https://github.com/Sahanaroy1/Social_Network_API_Builder/assets/127791384/f11b6bda-4222-4679-a156-6b3b1c5d6539">
+<img width="1318" alt="Social Api Builder" src="https://github.com/Sahanaroy1/Social_Network_API_Builder/assets/127791384/be0f3c93-d55c-4ffd-8d55-f128021a1b5c">
