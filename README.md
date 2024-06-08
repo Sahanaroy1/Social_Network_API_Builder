@@ -18,5 +18,8 @@ https://github.com/Sahanaroy1/Social_Network_API_Builder
 ## Walkthrough Video:
 https://vimeo.com/955195681/cb64ad619f?share=copy
 
-## Snippet of the POSTMAN:
+## Snippet of the POSTMAN and MongoDB:
 <img width="1318" alt="Social Api Builder" src="https://github.com/Sahanaroy1/Social_Network_API_Builder/assets/127791384/be0f3c93-d55c-4ffd-8d55-f128021a1b5c">
+
+
+<img width="1022" alt="Database" src="https://github.com/Sahanaroy1/Social_Network_API_Builder/assets/127791384/8d6510c7-1378-4e6d-8636-8eb9cfedda2e">
